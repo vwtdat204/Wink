@@ -2,7 +2,7 @@
 #!desc=WinkPro
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/.png
 #!homepage=https://whatshub.top
-#!author=Viết Đạt
+#!author=vwtdat204
 [Script]
 WinkForeverVipCrack.js=type=http-response,pattern=^https?:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group\.json,requires-body=1,script-pathhttps://raw.githubusercontent.com/vwtdat204/FileModWink/refs/heads/main/WinkForeverVipCrack.js
 
